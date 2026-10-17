@@ -105,8 +105,8 @@ Python · Docker · AWS EC2 · Git
 
 **Repositories**
 
-- [data-pipelines-portfolio](https://github.com/kevin080106/data-pipelines-portfolio) — retail SQL, public API ingestion into MongoDB, and a daily weather job in Airflow.
-- [dc-dashboard](https://github.com/kevin080106/dc-dashboard) — Streamlit dashboard on AWS ECS for data center operations and market intelligence.
+- [data-pipelines-portfolio](https://github.com/kevincastellanos01/data-pipelines-portfolio) — retail SQL, public API ingestion into MongoDB, and a daily weather job in Airflow.
+- [dc-dashboard](https://github.com/kevincastellanos01/dc-dashboard) — Streamlit dashboard on AWS ECS for data center operations and market intelligence.
 
 ### Currently exploring
 
